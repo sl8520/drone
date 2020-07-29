@@ -1,0 +1,16 @@
+.DS_Store
+
+# nginx log
+logs/
+
+# database data
+.data/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
